@@ -8,6 +8,12 @@ En el primer ejercicio he guardado todos los archivos generados con HLS en la ca
 Referencia: http://underpop.online.fr/f/ffmpeg/help/hls-2.htm.gz
 
 
+##EX2
+
+He guardado todos los archivos generados en la carpeta bento4_ex2
+Referencia: https://ottverse.com/bento4-mp4dash-for-mpeg-dash-packaging/
+
+
 ##EX3
 
 En este ejercicio he creado una comanda con ffmpeg para retransmitir en directo el video BBB de 10 segundos.
